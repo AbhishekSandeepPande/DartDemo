@@ -1,0 +1,9 @@
+//add data type and operator at appropriate place
+void main(){
+  int x=5;
+  int y=6;
+  bool ans= (++x < ++y) && (--x > ++y); //
+  print(ans);
+}
+
+// bool &&
